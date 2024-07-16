@@ -1,0 +1,2 @@
+# LiterAlura
+Catálogo de Libros que permita la interacción textual con los usuarios a través de la consola. Los usuarios podrán elegir entre al menos 5 opciones de interacción para buscar y gestionar libros utilizando una API específica.
